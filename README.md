@@ -30,7 +30,7 @@ This guide will not cover topics such as XXX.
 1. Clone the project
 
 ```
-git clone https://github.com/maxwellfortney/next-candy-machine
+git clone https://github.com/Panichevnyi/next-candy-machine
 ```
 
 2. Install yarn dependencies
